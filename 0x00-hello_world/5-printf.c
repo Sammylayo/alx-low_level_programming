@@ -1,9 +1,8 @@
 #include <stdio.h>
 
 /**
- *
- *main - with proper grammer, but the outcome is a piece of art,
- *Return: 0
+ * main - with proper grammer, but the outcome is a piece of art,
+ * Return: 0
  */
 
 int main(void)
