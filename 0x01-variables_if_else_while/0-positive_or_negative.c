@@ -6,7 +6,7 @@
 
 
 
-/*
+/**
  * main - this is to show whether the number n is positive negative or zero.
  * Return: 0
  */
