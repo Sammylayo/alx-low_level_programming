@@ -9,6 +9,7 @@ int main(void)
 	printf("Size of an int: %lu.\n", (unsigned long)sizeof(i));
 	printf("Size of a long int: %lu.\n", (unsigned long)sizeof(i));
 	printf("Size of a long long int: %lu.\n", (unsigned long)sizeof(d));
+	printf("Size of a float: %lu.\n", (unsigned long)sizeof(i));
 
 	return (0);
 }
